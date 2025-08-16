@@ -1,2 +1,2 @@
-Nama: Nazwa
+Nama: Nazwa cuwa
 Hobi: Belajar Git
