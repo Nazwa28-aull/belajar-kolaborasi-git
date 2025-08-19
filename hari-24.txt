@@ -1,0 +1,53 @@
+=== HASIL git diff (belum di-stage) ===
+diff --git a/portofolio.html b/portofolio.html
+index f786627..e8b9e19 100644
+--- a/portofolio.html
++++ b/portofolio.html
+@@ -5,7 +5,7 @@
+     <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+-    <h1>Halo, ini portofolio Nazwa</h1>
++    <h1>Halo, ini portofolio Nazwaa</h1>
+     <p>Proyek-proyek saya akan ditampilkan di sini.</p>
+     <script src="script.js"></script>
+ </body>
+diff --git a/profil.txt b/profil.txt
+index 5f57a5c..26efaa5 100644
+--- a/profil.txt
++++ b/profil.txt
+@@ -1,3 +1,3 @@
+ Nama: Nacuwa
+ Hobi: Belajar Git
+-Kota: Jakarta
+\ No newline at end of file
++Kota: Banjarmasin
+\ No newline at end of file
+
+== HASIL git diff --staged (yang siap di-commit) ===
+diff --git a/profil.txt b/profil.txt
+index 5f57a5c..26efaa5 100644
+--- a/profil.txt
++++ b/profil.txt
+@@ -1,3 +1,3 @@
+ Nama: Nacuwa
+ Hobi: Belajar Git
+-Kota: Jakarta
+\ No newline at end of file
++Kota: Banjarmasin
+\ No newline at end of file
+
+=== HASIL git diff (setelah stage, sisa unstaged) ===
+diff --git a/portofolio.html b/portofolio.html
+index f786627..e8b9e19 100644
+--- a/portofolio.html
++++ b/portofolio.html
+@@ -5,7 +5,7 @@
+     <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+-    <h1>Halo, ini portofolio Nazwa</h1>
++    <h1>Halo, ini portofolio Nazwaa</h1>
+     <p>Proyek-proyek saya akan ditampilkan di sini.</p>
+     <script src="script.js"></script>
+ </body>
