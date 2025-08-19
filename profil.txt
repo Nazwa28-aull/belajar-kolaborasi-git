@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Nama: Nacuwa
-=======
-Nama: Nazwa cuwa
->>>>>>> eksperimen-konflik
 Hobi: Belajar Git
+Kota: Jakarta
